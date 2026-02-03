@@ -9,7 +9,7 @@ A high-performance, minimalist portfolio website engineered to showcase my work 
 - **Animation**: Framer Motion (Orchestrated entrance animations, scroll-triggered reveals)
 - **Bundling**: Vite
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 The UI follows a strict "absolute intent" philosophy—stripping away decorative noise to focus on content and motion.
 
@@ -17,7 +17,7 @@ The UI follows a strict "absolute intent" philosophy—stripping away decorative
 - **Typography**: Inter font family for optimal legibility across devices.
 - **Performance**: Zero layout shift, optimized asset loading, and hardware-accelerated animations.
 
-## 🚀 Features
+##  Features
 
 - **Component-Driven Architecture**: Modular components for Hero, Skills, and Projects sections.
 - **Responsive Layout**: Fluid adaptation from mobile to 4K displays.
@@ -26,7 +26,7 @@ The UI follows a strict "absolute intent" philosophy—stripping away decorative
   - Scroll-aware navigation with active state tracking.
   - Staggered list animations for optimized perceived performance.
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the repository**
     ```bash
