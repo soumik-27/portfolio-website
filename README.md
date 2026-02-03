@@ -2,7 +2,7 @@
 
 A high-performance, minimalist portfolio website engineered to showcase my work and technical expertise. Built from the ground up using React 19, TypeScript, and Tailwind CSS, focusing on fluid interactivity and clean architectural patterns.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Core**: React 19, TypeScript
 - **Styling**: Tailwind CSS (Utility-first architecture)
